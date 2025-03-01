@@ -20,3 +20,6 @@ View Sources:
  - If available, the bot will also show the sources from which it retrieved the answer, providing transparency on the origin of the information.
 Repeat the Process:
  - You can continue to ask more questions or upload different URLs for analysis as needed.
+
+# AI Bot Interface
+![image](https://github.com/user-attachments/assets/eded1f2e-2a41-4fc1-ab3d-9148684afb64)
